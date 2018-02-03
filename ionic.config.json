@@ -1,0 +1,8 @@
+{
+  "name": "ibbv-app",
+  "app_id": "3cda29ed",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
